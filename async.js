@@ -1,4 +1,5 @@
 // api.openweathermap.org/data/2.5/weather?q={City Name}&units=metric&appid={API Key}
+// May be Alternative
 const api = {
     key: 'b6cc4392568a3586e950307c86a22bbd',
     base: 'https://api.openweathermap.org/data/2.5/weather'
